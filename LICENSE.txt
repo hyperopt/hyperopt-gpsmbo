@@ -1,0 +1,3 @@
+This software (theano-gpr) is may be used by anyone under the terms of the
+"Lesser GPL v. 3.0"
+
